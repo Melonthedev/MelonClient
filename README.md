@@ -15,3 +15,4 @@ A Minecraft 1.8.9 PVP Client with many interesting Features, free Cosmetics and 
 ![Picture 4](https://user-images.githubusercontent.com/56476502/160261945-16713706-4285-4612-9c2f-5ae20d3c9f6b.png)
 ![Picture 5](https://user-images.githubusercontent.com/56476502/160261946-521c54ed-44e8-424d-a418-e4689c6d588f.png)
 ![Picture 6](https://user-images.githubusercontent.com/56476502/160261949-73bb4bd1-2633-4750-8748-b1ce59d28e54.png)
+![Picture 7](https://user-images.githubusercontent.com/56476502/175665864-8cbc075b-9da4-4747-8773-e4b119ff85b1.png)
